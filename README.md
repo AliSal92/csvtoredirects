@@ -1,6 +1,6 @@
-# CSVTOREDIRECTS
+# CSVToRedirects
 
-CSVTOREDIRECTS is a PHP library used to create redirects from CSV file, and compatible with PHP **7.4**.
+CSVToRedirects is a PHP library used to create redirects from CSV file, and compatible with PHP **7.4**.
 
 It allows the creation of hundreds of redirects with ease using CSV files.
 
@@ -8,7 +8,7 @@ You must use Composer to install this library.
 
 ## Requirements
 
-CSVTOREDIRECTS works with PHP >7 and Composer.
+CSVToRedirects works with PHP >7 and Composer.
 
 ## Installation
 
