@@ -10,6 +10,21 @@ You must use Composer to install this library.
 
 CSVTOREDIRECTS works with PHP >7 and Composer.
 
+## Installation
+
+Installation is easy using Composer. Just run the following on the
+command line:
+```
+composer require alisal1992/csvtoredirects
+```
+
+If you don't use a framework such as Drupal, Laravel, Symfony, Yii etc.,
+you may have to manually include Composer's autoloader file in your PHP
+script:
+```php
+require_once __DIR__ . 'vendor/autoload.php';
+```
+
 ## Example Usage
 
 ```php
