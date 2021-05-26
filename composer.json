@@ -1,0 +1,29 @@
+{
+    "name": "alisal1992/csvtoredirects",
+    "description": "Create redirects from CSV file.",
+    "type": "library",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Ali Sal",
+            "email": "ali.alsalti1992@gmail.com"
+        }
+    ],
+    "require": {
+        "parsecsv/php-parsecsv": "^1.3",
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "AliSal\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AliSal\\tests\\": "tests"
+        }
+    }
+}

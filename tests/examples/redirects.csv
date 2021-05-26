@@ -1,0 +1,4 @@
+from,to,operator,type
+https://www.mywebsite.com,https://www.myotherwebsite.com,=,302
+mywebsite.com/somepage/,https://www.myotherwebsite.com/somepage/,contains,301
+mywebsite.com/somepage/index.php,https://www.myotherwebsite.com/somepage/index.php,contains,301
